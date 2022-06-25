@@ -25,10 +25,6 @@
   ],
   "types": "dist/index.d.ts",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:YPAKK/template-react-component-library.git"
+    "registry": "https://npm.pkg.github.com/template-react-component-library"
   }
 }
